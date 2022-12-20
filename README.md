@@ -27,7 +27,7 @@ I assumed that the image had a link, besides de QR Code element, and tried to bu
 </p>
 
 ## Solution link
-- Live server URL: [Live site at GitHub-Pages](https://viniciusmontibeller.github.io/product-preview-card-frontend-mentor/)
+- Live server URL: [Live site at GitHub-Pages](https://viniciusmontibeller.github.io/qr-code-component/)
 
 ## Built with
  - HTML5
