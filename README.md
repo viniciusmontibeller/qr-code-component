@@ -22,8 +22,9 @@ I assumed that the image had a link, besides de QR Code element, and tried to bu
 <img src="./screenshots-readme/Screenshot_desktop.png">
 
 - Mobile version
-
-<img src="./screenshots-readME/Screenshot_mobile.png">
+<p align=center>
+<img src="./screenshots-readme/Screenshot_mobile.png" width="50%">
+</p>
 
 ## Solution link
 - Live server URL: [Live site at GitHub-Pages](https://viniciusmontibeller.github.io/product-preview-card-frontend-mentor/)
