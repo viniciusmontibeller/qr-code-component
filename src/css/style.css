@@ -1,3 +1,7 @@
+html{
+    font-size: 62.5%;
+}
+
 body{
     font-family: 'Outfit', sans-serif;
     background-color: var(--medium);
@@ -11,17 +15,17 @@ main{
 }
 
 .card{
-    width: 320px;
-    height: 498px;
-    padding: 16px;
+    width: 32rem;
+    height: 49.8rem;
+    padding: 1.6rem;
     background-color: var(--light);
-    border-radius: 19px;
-    box-shadow: 0px 20px 10px 0px #CCD8E6;
+    border-radius: 1.9rem;
+    box-shadow: 0rem 2rem 1rem 0rem #CCD8E6;
 }
 
 .card .image-link .image{
-    width: 100%;
-    border-radius: 10px;
+    max-width: 100%;
+    border-radius: 1rem;
     transition: 0.3s ease-in-out;
 }
 
@@ -30,24 +34,24 @@ main{
 }
 
 .card .info{
-    margin: 20px 15px;
+    margin: 2rem 1.5rem;
 }
 
 .card .info .title{
     text-align: center;
-    font-size: 22px;
-    margin-bottom: 15px;
+    font-size: 2.2rem;
+    margin-bottom: 1.5rem;
     color: var(--heavy-dark);
 }
 
 .card .info .description{
     text-align: center;
-    font-size: 15px;
+    font-size: 1.5rem;
     color: var(--dark);
 }
 
 .attribution{ 
-    font-size: 11px;
+    font-size: 1.1rem;
     text-align: center;
 }
 .attribution a{ 
